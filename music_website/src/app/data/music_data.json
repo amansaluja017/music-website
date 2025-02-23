@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Learn the fundamentals of piano playing with comprehensive lessons suitable for complete beginners.",
+      "price": 99.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques including fingerpicking, scales, and complex chord progressions.",
+      "price": 149.99,
+      "instructor": "Mike Richards",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training Masterclass",
+      "slug": "vocal-training-masterclass",
+      "description": "Develop your singing voice with professional vocal techniques and exercises.",
+      "price": 129.99,
+      "instructor": "Emily Chen",
+      "isFeatured": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Fundamentals",
+      "slug": "music-theory-fundamentals",
+      "description": "Understanding music theory basics, from notes and scales to chord progressions for complete beginners.",
+      "price": 79.99,
+      "instructor": "David Smith",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 5,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Learn the fundamentals of piano playing with comprehensive lessons suitable for complete beginners.",
+      "price": 99.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 6,
+      "title": "Piano for Beginners",
+      "slug": "advanced-guitar-techniques",
+      "description": "Learn the fundamentals of piano playing with comprehensive lessons suitable for complete beginners.",
+      "price": 99.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    },
+    {
+      "id": 7,
+      "title": "Piano for Beginners",
+      "slug": "music-theory-fundamentals",
+      "description": "Learn the fundamentals of piano playing with comprehensive lessons suitable for complete beginners.",
+      "price": 99.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRas2Y-IkHAGRULA6n6kx48Lpl3LD6koEug&s"
+    }
+  ]
+}
