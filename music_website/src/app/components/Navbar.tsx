@@ -10,7 +10,7 @@ function Navbar({ className }: { className?: string }) {
         <div className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50", className)}
         >
             <Menu setActive={setActive}>
-                <Link href={'/home'}>
+                <Link href={'/'}>
                     <MenuItem setActive={setActive} active={active} item="Home"></MenuItem>
                 </Link>
                 
@@ -27,8 +27,6 @@ function Navbar({ className }: { className?: string }) {
                 <Link href={'/contact'}>
                     <MenuItem setActive={setActive} active={active} item="Contact Us"></MenuItem>
                 </Link>
-                
-               
             </Menu>
         </div>
     )
